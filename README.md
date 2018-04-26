@@ -8,3 +8,5 @@ Implemented using Suffix Trees.
 The makedoc.py splits the file documents into separate files. The result is the files that are in the folder named 'Tales'.
 A suffix tree is then constructed constructed for each of these files using the processTree() function in suffixtree.py.
 The program is executed from str-run-me.py
+
+Link for report: https://drive.google.com/file/d/0B_NxPFkhUh78TVR2T2JJVERKYzQ/view?usp=sharing
